@@ -1,0 +1,22 @@
+
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+
+.social-image{
+    width: 40px;
+    margin-right: 20px;
+}
+
+.social-item{
+    display: inline-block;
+}
+
+.nav-item{
+    margin-left:20px;
+    font-size: 1.5rem;
+    color: black !important;
+    margin: 0!important;
+}
