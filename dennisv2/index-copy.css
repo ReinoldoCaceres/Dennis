@@ -181,7 +181,7 @@ margin-left: auto;
 }
 
 .footer{
-    width: 99%;
+    overflow-x: hidden;
     text-align: center;
     background-color: black;
     color: white;
