@@ -1,12 +1,12 @@
 .nav-item {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     color: black !important;
     margin-left: 50px;
     font-weight: bold;
 }
 
 .nav-item-meet-dennis{
-    width: 184px;
+    width: 170px;
 }
 
 .social-icons{
@@ -223,10 +223,10 @@ margin-left: auto;
 @media only screen and (max-width: 1150px) {
     .nav-item {
         margin-left: 2px;
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
     .nav-item-meet-dennis{
-        width: 160px;
+        width: 150px;
     }
 }
 
