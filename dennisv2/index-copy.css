@@ -159,18 +159,18 @@ margin-left: auto;
 }
 
 .quote-tile{
-    margin-left:20%;
     color: white;
     font-weight: bold;
     font-size: 4rem;
+    text-align: center;
 }
 
 .quote-p{
     color: white;
-    margin-right: 20%;
     font-weight: bold;
     font-size: 2rem;
-    text-align: right;
+    text-align: center;
+
 }
 
 
@@ -341,8 +341,12 @@ margin-left: auto;
     .quote-tile{
         margin-left:5%;
         font-size: 2rem;
+        text-align: center;
+
     }
     .quote-p{
+        text-align: center;
+        font-size: 1rem;
         margin-right:5%;
         margin: auto;
         text-align: right;
@@ -453,8 +457,11 @@ margin-left: auto;
     .quote-tile{
         margin-left:5%;
         font-size: 2rem;
+        text-align: center;
     }
     .quote-p{
+        text-align: center;
+        font-size: 1rem;
         margin-right:5%;
         margin: auto;
         text-align: right;
