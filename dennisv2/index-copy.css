@@ -1,3 +1,9 @@
+.logo{
+    width: 250px;
+}
+.nav-item-social-responsive{
+    display: none;
+}
 .nav-item {
     font-size: 1.5rem;
     color: black !important;
@@ -238,6 +244,30 @@ margin-left: auto;
     *{
         overflow-x:hidden;
     }
+    .logo{
+        width: 250px;
+    }
+    .navbar-nav{
+        width: 100%;
+    }
+    .nav-item-social{
+        display: none;
+    }
+
+    .nav-item-social-responsive{
+        display: unset;
+        text-align: center;
+    }
+
+    .dark-red{
+        text-align: center;
+        width: 100%;
+    }
+
+    .red{
+        text-align: center;
+        width: 100%;
+    }
 
     .tablet-only{
         display: unset;
@@ -370,8 +400,29 @@ margin-left: auto;
 
 }
 @media only screen and (max-width: 600px) {
+    .logo{
+        width: 236px;
+    }
+
     .portrait{
         overflow: hidden;
+    }
+    .nav-item-social{
+        display: none;
+    }
+    .nav-item-social-responsive{
+        display: unset;
+        text-align: center;
+    }
+
+    .dark-red{
+        text-align: center;
+        width: 100%;
+    }
+
+    .red{
+        text-align: center;
+        width: 100%;
     }
     *{
         overflow-x: hidden;
