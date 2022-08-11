@@ -255,6 +255,7 @@ margin-left: auto;
     }
 
     .nav-item-social-responsive{
+        padding-top: 3%;
         display: unset;
         text-align: center;
     }
@@ -411,6 +412,7 @@ margin-left: auto;
         display: none;
     }
     .nav-item-social-responsive{
+        padding-top: 3%;
         display: unset;
         text-align: center;
     }
